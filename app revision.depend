@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1672862719 source:c:\users\metropolis\onedrive\bureau\code blocks\app revision\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"function.h"
+
+1672866638 c:\users\metropolis\onedrive\bureau\code blocks\app revision\function.h
+
+1672866755 source:c:\users\metropolis\onedrive\bureau\code blocks\app revision\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"function.h"
+
